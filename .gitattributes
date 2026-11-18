@@ -1,0 +1,3 @@
+*.glb filter=lfs diff=lfs merge=lfs -text
+Assets/ImmersiveEyeGenerated/OptimizedFoodMeshes/*.asset filter=lfs diff=lfs merge=lfs -text
+Assets/ImmersiveEyeGenerated/OptimizedFoodMeshes_SecondPass/*.asset filter=lfs diff=lfs merge=lfs -text
